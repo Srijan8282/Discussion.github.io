@@ -1,3 +1,21 @@
+![Screenshot (9)](https://github.com/Srijan8282/Discussion.github.io/assets/115431775/48fb48e9-a336-4b0a-9a4f-fdc141926f7d)
+DISCUSSION
+● Tech Stack : HTML, CSS, Javascript, React.Js,
+Node.Js, News API, React-Router-DOM, Bootstrap, Github
+● A web application that displays latest news from
+several categories with date and author name from
+different news channels/ resources.
+● Used News API to fetch the news with title, source,
+author name. 
+
+Recent time websites features are available like top loading bar, infinite scrolling, import gif and so on...
+
+![Screenshot (9)](https://github.com/Srijan8282/Discussion.github.io/assets/115431775/cfb2082b-7bce-40ea-8cd2-410d22b6efe9)
+
+
+![Screenshot (10)](https://github.com/Srijan8282/Discussion.github.io/assets/115431775/06e96cce-1538-4dad-b096-391bd4cce45a)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
