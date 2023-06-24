@@ -1,4 +1,4 @@
-![Screenshot (9)](https://github.com/Srijan8282/Discussion.github.io/assets/115431775/48fb48e9-a336-4b0a-9a4f-fdc141926f7d)
+
 DISCUSSION
 ● Tech Stack : HTML, CSS, Javascript, React.Js,
 Node.Js, News API, React-Router-DOM, Bootstrap, Github
